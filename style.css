@@ -1,0 +1,29 @@
+h1{
+	color:blue;
+	background-color: yellow;
+	font-weight: bold;
+	text-align: center;
+	font-size: 70px;
+}
+p{
+color:white;
+	background-color: green;
+	font-weight: italic;
+	text-align: center;
+	font-size: 30px;
+}
+h3{
+	color:blue;
+	background-color: yellow;
+	font-weight: bold;
+	text-align: center;
+	font-size: 70px;
+}
+a{
+	text-align: center;
+	font-size: 30px;
+}
+h5{
+	text-align: right;
+	
+}
